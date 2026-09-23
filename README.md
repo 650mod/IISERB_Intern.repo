@@ -19,9 +19,7 @@ The repository includes learning modules covering key concepts from Signals and 
 - Fourier Series
 - Fourier Transform
 - Sampling
-- Other related concepts in Signals and Systems
 
-> The exact topics and organization may vary across the individual modules.
 
 ## 🎯 Objectives
 
